@@ -5,7 +5,7 @@ import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 
 import Home from "./screens/Home";
 import Profile from "./screens/Profile";
-import Calendar from "./screens/Calendar";
+import Calendar from "./screens/CalendarPage";
 
 
 import Ionic from "react-native-vector-icons/Ionicons";
