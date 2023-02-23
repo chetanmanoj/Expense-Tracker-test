@@ -9,7 +9,6 @@ export default function Home() {
     <LinearGradient colors={["#67E2EA", "#0CDDEB"]} style={styles.background}>
       <View style={styles.topContainer}>
         <Text style = {{paddingTop: 40}}><YearMonth/></Text>
-        <Text style = {{fontSize:17, paddingTop:7}}>Total Expense: </Text>
       </View>
     </LinearGradient>
   );
